@@ -373,14 +373,7 @@ footer {
   margin-bottom: 2.4rem;
   border: 0.2rem solid #fff;
 }
-.footer-arrow-img {
-}
-.section-arrow-text {
-}
-.arrow-text {
-}
-.section-arrow-img {
-}
+
 .footer-avatars-container {
   display: flex;
   justify-content: space-between;
@@ -418,7 +411,11 @@ footer {
 .footer-bottom-text {
   color: #fff;
 }
-
+.footer-last-icon {
+  gap: 3rem;
+  display: flex;
+  align-items: center;
+}
 .arrow-text {
   color: #fff;
   background-color: none;
